@@ -8,7 +8,6 @@ This TestCode changes its color gradually makes your app look fantastic!
 DESC
 
 s.homepage         = 'https://github.com/Next-Things/TestCode'
-s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'Prasanna' => 'iphonedinesh30@gmail.com' }
 s.source           = { :git => 'https://github.com/Next-Things/TestCode.git', :tag => s.version.to_s }
 
